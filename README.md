@@ -10,4 +10,6 @@ This repository contains a machine learning model for predicting the likelihood 
 1) PIMA Indians Diabetes Dataset (originally from the National Institute of Diabetes and Digestive and Kidney Diseases, under the CC0 : Public Domain License)
 2) Diabetes Prediction Dataset (taken from https://www.kaggle.com/iammustafatz)
 
-*Algorithms:* The model has been trained on various state-of-the-algorithms for the two datasets with varying results.
+*Algorithms:* The model has been trained on various state-of-the-algorithms (such as Logistic Regression, K-Nearest Neighbour, Gaussian Naïve Bayes) for the two aforementioned datasets with varying results.
+
+*Evaluation:* 
