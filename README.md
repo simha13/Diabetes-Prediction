@@ -12,7 +12,7 @@ This repository contains a machine learning model for predicting the likelihood 
 
 *Algorithms:* The model has been trained on various state-of-the-algorithms (such as Logistic Regression, K-Nearest Neighbour, Gaussian Naïve Bayes) for the two aforementioned datasets with varying results.
 
-*Evaluation:* The model's performance has been evaluated using the Accuracy Score and each alogorithm shows slightly differing accuracies, thus showing the needs of different datasets.
+*Evaluation:* The model's performance has been evaluated using the Accuracy Score and each algorithm shows slightly differing accuracies, thus showing the needs of different datasets.
 
 # Results
 1) For the PIMA dataset, it is observed that Gaussian Naive Bayes Classifier obtains the best accuracy score of a moderate 77%.
